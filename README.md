@@ -1,3 +1,4 @@
+Name: Julien Samuel Eddy Guimez
 # In-memory database with transactions
 
 this is a simple java implementation of an in-memory key-value store that supports basic transaction operations.
